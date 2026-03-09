@@ -46,10 +46,10 @@ Since 2016, I've been working on personal projects, collaborations with other cr
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Cinema 4D](https://img.shields.io/badge/Cinema4D-011A6A?style=for-the-badge)
 ![Maya](https://img.shields.io/badge/Maya-00ADEF?style=for-the-badge)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
-![VEGAS](https://img.shields.io/badge/Sony%20VEGAS-1E90FF?style=for-the-badge)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-436889?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-B26AD1?style=for-the-badge&logo=krita&logoColor=white)
+![VEGAS](https://img.shields.io/badge/VEGAS-21265B?style=for-the-badge)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-D36C2C?style=for-the-badge)
 
 ---
 
