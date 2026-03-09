@@ -3,13 +3,6 @@
 ## About me
 👤 I'm Mexican and 23 years old. I speak Spanish and English, and I've been learning Italian for a few years. I'm passionate about geography, languages, flags, technology, coding, and art.
 
-🎬 Self-taught 3D Generalist since 2016. I've been working on personal projects, collaborations with other creators and done commission work. I have knowledge in:
-- Animation
-- Modeling
-- Rigging
-- Map Creation
-- Editing
-
 💻 Web Developer since 2018. I've been studying and participating in projects and college events with knowledge in languages and technologies such as: 
 - React
 - JavaScript / TypeScript
@@ -27,6 +20,12 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
+🎬 Self-taught 3D Generalist since 2016. I've been working on personal projects, collaborations with other creators and done commission work. I have knowledge in:
+- Animation
+- Modeling
+- Rigging
+- Map Creation
+- Editing
 
 ## 🔧 Softwares
 - Source Filmmaker
