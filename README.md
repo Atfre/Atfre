@@ -4,16 +4,16 @@
 👤 I'm Mexican and 23 years old. I speak Spanish and English, and I've been learning Italian for a few years. I'm passionate about geography, languages, flags, technology, coding, and art.
 
 ---
-## 💻 Web Developer
-Since 2018, I've been studying and participating in projects and college events with knowledge in languages and technologies such as: 
+## 💻 Web & Software Developer
+Since 2018, I've been studying and participating in projects and college events with knowledge in languages, technologies and topics like: 
 - React
 - JavaScript / TypeScript
 - HTML / PHP / CSS
 - Java
 - Kotlin
 - Python
-- CyberSecurity
 - Blockchain
+- CyberSecurity
 
 ---
 ## 🎬 Self-taught 3D Generalist 
