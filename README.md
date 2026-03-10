@@ -1,37 +1,41 @@
-# Hi, I'm Aftre 👋
+# Hi, I'm Aftre.
 
-## About me
-👤 I'm Mexican and 23 years old. I speak Spanish and English, and I've been learning Italian for a few years. I'm passionate about geography, languages, flags, technology, coding, and art.
+## 👤 About me
+Mexican developer with experience as a 3D generalist since 2016 and in web/software development since 2018. Bilingual in Spanish and English, with intermediate Italian. Passionate about geography, technology, cybersecurity, and digital art.
 
 ---
 ## 💻 Web & Software Developer
-Since 2018, I've been studying and participating in projects and college events with knowledge in languages, technologies and topics like: 
+Experience participating in academic, collaborative and independent projects.
+### Programming and Web Technologies
 - React
 - JavaScript / TypeScript
 - HTML / PHP / CSS
 - Java
 - Kotlin
 - Python
-- Blockchain
-- CyberSecurity
+### Computer Science and Technology
+- Blockchain Fundamentals
+- Networking Fundamentals
+- Cybersecurity & Penetration Testing (Foundational Knowledge)
+- Basic Vulnerability Assessment
 
 ---
-## 🎬 Self-taught 3D Generalist 
-Since 2016, I've been working on personal projects, collaborations with other creators and done commission work. I have knowledge in:
+## 🎬 3D Generalist
+Self-taught 3D artist with experience in collaborative, commissioned and personal projects.
+### Skills
 - Animation
 - Modeling
 - Rigging
 - Map Creation
-- Editing
-
-## 🔧 Softwares
+- Video Editing
+### Software
 - Source Filmmaker
 - Blender
 - Cinema4D
-- Maya
-- Photoshop
+- Autodesk Maya
+- Adobe Photoshop
 - Krita
-- VEGAS
+- VEGAS Pro
 - DaVinci Resolve
 ---
 
