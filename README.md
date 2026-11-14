@@ -20,22 +20,22 @@
 
 ---
 
-## ◆ About Me
+### ◆ About Me
 
 I'm Angel S., a 24 years old full-stack developer and 3D generalist from Mexico.
 
 I've been doing 3D art since 2016. My background in software development dates back to 2020 when I graduated as a programming technician and began university studies.
 
-- **Development:** I build websites, apps and tools for artists.
-- **Animation:** I animate characters for 3D shorts.
-- **Cybersecurity:** I gained foundational knowledge through a course during my university studies.
-- **Currently learning:** Go and Rust.
+- **Development:** I build websites, develop apps and create tools for artists.
+- **3D Generalist:** I create 3D models and animate for commissions, collaborations and personal projects.
+- **Cybersecurity:** I took a course in cybersecurity fundamentals while at university.
+- **Currently Learning:** Go and Rust.
 
 **Discord** · `aftre`
 
 ---
 
-## ◆ Featured Project
+### ◆ Featured Project
 
 [![Project: Color Wheel Tool](https://img.shields.io/badge/Project-Color%20Wheel%20Tool-6D4ED2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atfre/color-wheel-tool)
 
@@ -46,7 +46,8 @@ A **Source Filmmaker** script that adds a Blender-inspired color wheel and a lig
 
 ---
 
-## ◆ Experience
+<details>
+<summary><strong>◆ Experience</strong></summary>
 
 - **Programming Languages**
 
@@ -92,8 +93,7 @@ A **Source Filmmaker** script that adds a Blender-inspired color wheel and a lig
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=black)
   ![Rust](https://img.shields.io/badge/Rust-30363D?style=flat-square&logo=rust&logoColor=white)
 
-<details>
-<summary><strong>Competitions</strong></summary>
+### 🏆 Competitions
 
 - **Coding Cup · (2022)**
 
@@ -108,16 +108,17 @@ A **Source Filmmaker** script that adds a Blender-inspired color wheel and a lig
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
   ![Solana](https://img.shields.io/badge/Solana-24242B?style=flat-square&logo=solana&logoColor=white)
 
-</details>
+### 💼 Work Experience
 
-<details>
-<summary><strong>Work Experience</strong></summary>
+- **Freelance Web Developer**
 
-- **Freelance Web Developer** *(Remote · 2026-Present)*
+  *Remote · 2026-Present*
 
   I work with a team to maintain existing websites. I also help building new sites when needed.
 
-- **Freelance 3D Animator** *(Remote · 2026–Present)*
+- **Freelance 3D Animator**
+
+  *Remote · 2026–Present*
 
   I take commissions from YouTube channels to animate characters for short 3D videos. See more of my work in my [portfolio](https://aftreportfolio.carrd.co/).
 
