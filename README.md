@@ -22,13 +22,13 @@
 
 ### ◆ About Me
 
-I'm Angel S., a 24 years old full-stack developer and 3D generalist from Mexico.
+I'm Angel S., a 24 years old full-stack developer and 3D generalist from Mexico. Spanish is my native language, but I also speak English and Italian when needed.
 
-I've been doing 3D art since 2016. My background in software development dates back to 2020 when I graduated as a programming technician and began university studies.
+I've been doing 3D art since 2016. I got into software development in 2020, when I qualified as a programming technician and started university.
 
 - **Development:** I build websites, develop apps and create tools for artists.
 - **3D Generalist:** I create 3D models and animate for commissions, collaborations and personal projects.
-- **Cybersecurity:** I took a course in cybersecurity fundamentals while at university.
+- **Cybersecurity:** I took a course in Cybersecurity fundamentals while at university. I'm currently taking an Ethical Hacking course.
 - **Currently Learning:** Go and Rust.
 
 **Discord** · `aftre`
