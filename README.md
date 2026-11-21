@@ -120,7 +120,7 @@ A **Source Filmmaker** script that adds a Blender-inspired color wheel and a lig
 
   *Remote · 2026–Present*
 
-  I take commissions from YouTube channels to animate characters for short 3D videos. See more of my work in my [portfolio](https://aftreportfolio.carrd.co/).
+  I take commissions from YouTube channels to animate characters for short 3D videos. See more of my work in my [portfolio](https://aftreee.site/portfolio/).
 
 </details>
 
