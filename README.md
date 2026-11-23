@@ -35,13 +35,21 @@ I've been doing 3D art since 2016. I got into software development in 2020, when
 
 ---
 
-### ◆ Featured Project
+### ◆ Featured Projects
 
 [![Project: Color Wheel Tool](https://img.shields.io/badge/Project-Color%20Wheel%20Tool-6D4ED2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atfre/color-wheel-tool)
 
 A **Source Filmmaker** script that adds a Blender-inspired color wheel and a light properties panel. Open it from a light's **Rig** menu to adjust its color, brightness and other settings in one place.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Source Filmmaker](https://img.shields.io/badge/Source%20Filmmaker-30363D?style=flat-square)
+
+[![Project: ReFrame](https://img.shields.io/badge/Project-ReFrame-6D4ED2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atfre/reframe)
+
+A video reference player for **Source Filmmaker** that stays in sync with the timeline. Play your shot or scrub frame by frame to compare your character’s poses and timing with the reference footage.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)
 ![Source Filmmaker](https://img.shields.io/badge/Source%20Filmmaker-30363D?style=flat-square)
 
 ---
