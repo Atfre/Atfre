@@ -44,12 +44,13 @@ A **Source Filmmaker** script that adds a Blender-inspired color wheel and a lig
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Source Filmmaker](https://img.shields.io/badge/Source%20Filmmaker-30363D?style=flat-square)
 
-[![Project: ReFrame](https://img.shields.io/badge/Project-ReFrame-6D4ED2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atfre/reframe)
+[![Project: ReFrame](https://img.shields.io/badge/Project-ReFrame-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atfre/reframe)
 
 A video reference player for **Source Filmmaker** that stays in sync with the timeline. Play your shot or scrub frame by frame to compare your character’s poses and timing with the reference footage.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square)
 ![Source Filmmaker](https://img.shields.io/badge/Source%20Filmmaker-30363D?style=flat-square)
 
 ---
